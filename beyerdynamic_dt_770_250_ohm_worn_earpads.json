@@ -1,0 +1,22 @@
+[
+  {
+    "gains": {
+      "bands": [
+        -2.6,
+        3.0,
+        -1.6,
+        2.1,
+        -1.4,
+        0.3,
+        -0.1,
+        3.1,
+        -3.5,
+        -10.6
+      ],
+      "global": 0
+    },
+    "id": "beyerdynamic_dt_770_250_ohm_worn_earpads",
+    "isDefault": false,
+    "name": "Beyerdynamic DT 770 250 Ohm (worn earpads)"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "gains": {
+      "bands": [
+        -10.3,
+        -10.7,
+        3.4,
+        3.1,
+        -0.2,
+        -1.2,
+        -3.9,
+        4.1,
+        -2.7,
+        -9.2
+      ],
+      "global": 0
+    },
+    "id": "jabra_elite_75t",
+    "isDefault": false,
+    "name": "Jabra Elite 75t"
+  }
+]
